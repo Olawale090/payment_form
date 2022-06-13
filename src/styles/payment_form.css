@@ -209,6 +209,7 @@ label{
     padding-top: 1rem;
     box-sizing: border-box;
     font-weight: bolder;
+    margin-top: 2rem;
 }
 
 @media screen and (max-width:480px) {
@@ -238,6 +239,8 @@ label{
 .complete_payment{
     width: 90%;
     margin-top: 7rem;
+    padding-top: 2rem;
+    box-sizing: border-box;
     margin-left: 5%;
     display: flex;
     flex-direction: row;
